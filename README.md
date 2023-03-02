@@ -7,4 +7,4 @@ The script will only run one time, but can be executed on a timed basis (I set m
 
 The results will look like this (based on VA02 results data): 
 ![SheetOutputExample](SheetOutputExample.png)
-
+*The script will output data to the sheet in default black and white output, without the rows that calculate total votes and %. Table formatting, including conditional formatting and summary rows, should be done within the sheet itself. 
