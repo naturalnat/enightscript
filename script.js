@@ -57,7 +57,7 @@ function myFunction() {
   
         count += 1
   
-      }
+      }g
     }
     importData();
   }
