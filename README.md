@@ -1,4 +1,4 @@
-# enightscript
+# Election Night Google Apps Script
 Google Apps Script to track election results data provided by the Virginia Department of Elections. 
 
 This script loops through election results JSON data (provided by the VDE) for each locality and outputs the paramters into a Google Sheet. 
